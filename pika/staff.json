@@ -72,6 +72,11 @@
   {
     "name": "Wonderfied",
     "rank": "Admin",
+    "role": "Admin of General Affairs"
+  },
+  {
+    "name": "deSitterSpace",
+    "rank": "Admin",
     "role": "Admin of Internal Affairs"
   },
   {
@@ -90,6 +95,11 @@
     "role": "Sr Mod"
   },
   {
+    "name": "Mayak_123",
+    "rank": "Sr Mod",
+    "role": "Sr Mod"
+  },
+  {
     "name": "zNqtix",
     "rank": "Sr Mod",
     "role": "Sr Mod"
@@ -100,12 +110,12 @@
     "role": "Sr Mod"
   },
   {
-    "name": "Sanivu",
+    "name": "sweetvicky",
     "rank": "Sr Mod",
     "role": "Sr Mod"
   },
   {
-    "name": "deSitterSpace",
+    "name": "Sanivu",
     "rank": "Sr Mod",
     "role": "Sr Mod"
   },
@@ -125,11 +135,6 @@
     "role": "Moderator"
   },
   {
-    "name": "Mayak_123",
-    "rank": "Moderator",
-    "role": "Moderator"
-  },
-  {
     "name": "LoxPlayz",
     "rank": "Moderator",
     "role": "Moderator"
@@ -140,12 +145,27 @@
     "role": "Moderator"
   },
   {
-    "name": "sweetvicky",
+    "name": "arnav_18",
     "rank": "Moderator",
     "role": "Moderator"
   },
   {
     "name": "prober90",
+    "rank": "Moderator",
+    "role": "Moderator"
+  },
+  {
+    "name": "arham19",
+    "rank": "Moderator",
+    "role": "Moderator"
+  },
+  {
+    "name": "hxml",
+    "rank": "Moderator",
+    "role": "Moderator"
+  },
+  {
+    "name": "Tqon",
     "rank": "Moderator",
     "role": "Moderator"
   },
@@ -165,7 +185,7 @@
     "role": "Helper"
   },
   {
-    "name": "arnav_18",
+    "name": "tobin",
     "rank": "Helper",
     "role": "Helper"
   },
@@ -175,17 +195,17 @@
     "role": "Helper"
   },
   {
-    "name": "hxml",
-    "rank": "Helper",
-    "role": "Helper"
-  },
-  {
     "name": "Lovellel",
     "rank": "Helper",
     "role": "Helper"
   },
   {
-    "name": "Tqon",
+    "name": "DKGAMERNSDCUTE",
+    "rank": "Helper",
+    "role": "Helper"
+  },
+  {
+    "name": "Ayaan_1001",
     "rank": "Helper",
     "role": "Helper"
   },
@@ -205,22 +225,7 @@
     "role": "Helper"
   },
   {
-    "name": "tobin",
-    "rank": "Trial",
-    "role": "Trial"
-  },
-  {
     "name": "unlqvinly",
-    "rank": "Trial",
-    "role": "Trial"
-  },
-  {
-    "name": "DKGAMERNSDCUTE",
-    "rank": "Trial",
-    "role": "Trial"
-  },
-  {
-    "name": "Ayaan_1001",
     "rank": "Trial",
     "role": "Trial"
   },
