@@ -51,28 +51,23 @@
   },
   {
     "name": "Flappix",
-    "rank": "Sr.Mod",
+    "rank": "Developer",
     "role": "Sr.Mod"
   },
   {
     "name": "KeylessSeal",
-    "rank": "Sr.Mod",
-    "role": "Sr.Mod"
-  },
-  {
-    "name": "bene_e",
-    "rank": "Sr.Mod",
-    "role": "Sr.Mod"
-  },
-  {
-    "name": "mila985",
-    "rank": "Sr.Mod",
+    "rank": "Developer",
     "role": "Sr.Mod"
   },
   {
     "name": "rexxmidle",
-    "rank": "Sr.Mod",
+    "rank": "Developer",
     "role": "Sr.Mod"
+  },
+  {
+    "name": "usb101",
+    "rank": "Moderator",
+    "role": "Moderator"
   },
   {
     "name": "Stxrs",
@@ -95,48 +90,38 @@
     "role": "Moderator"
   },
   {
+    "name": "DeadmanYT1",
+    "rank": "Moderator",
+    "role": "Moderator"
+  },
+  {
     "name": "Djim",
-    "rank": "Jr.Mod",
+    "rank": "Moderator",
     "role": "Jr.Mod"
   },
   {
     "name": "ataman",
-    "rank": "Jr.Mod",
+    "rank": "Moderator",
     "role": "Jr.Mod"
   },
   {
-    "name": "usb101",
-    "rank": "Jr.Mod",
-    "role": "Jr.Mod"
-  },
-  {
-    "name": "birdBSyt",
-    "rank": "Jr.Mod",
+    "name": "Pinkie__",
+    "rank": "Moderator",
     "role": "Jr.Mod"
   },
   {
     "name": "ZRJohnn",
-    "rank": "Jr.Mod",
+    "rank": "Moderator",
     "role": "Jr.Mod"
   },
   {
     "name": "ELBEDO",
-    "rank": "Jr.Mod",
-    "role": "Jr.Mod"
-  },
-  {
-    "name": "TuckerStrike",
-    "rank": "Jr.Mod",
-    "role": "Jr.Mod"
-  },
-  {
-    "name": "DeadmanYT1",
-    "rank": "Jr.Mod",
+    "rank": "Moderator",
     "role": "Jr.Mod"
   },
   {
     "name": "DehydratedVenom",
-    "rank": "Jr.Mod",
+    "rank": "Moderator",
     "role": "Jr.Mod"
   },
   {
@@ -160,12 +145,47 @@
     "role": "Helper"
   },
   {
+    "name": "fiwj",
+    "rank": "Trial",
+    "role": "Trial"
+  },
+  {
     "name": "Stjernestorm",
     "rank": "Trial",
     "role": "Trial"
   },
   {
+    "name": "GHladni",
+    "rank": "Trial",
+    "role": "Trial"
+  },
+  {
+    "name": "AnzoToi",
+    "rank": "Trial",
+    "role": "Trial"
+  },
+  {
+    "name": "NikoDoesCombo",
+    "rank": "Trial",
+    "role": "Trial"
+  },
+  {
+    "name": "Stand",
+    "rank": "Trial",
+    "role": "Trial"
+  },
+  {
+    "name": "Not_Titanmedal",
+    "rank": "Trial",
+    "role": "Trial"
+  },
+  {
     "name": "LucenaHD",
+    "rank": "Trial",
+    "role": "Trial"
+  },
+  {
+    "name": "xlavvz",
     "rank": "Trial",
     "role": "Trial"
   }
